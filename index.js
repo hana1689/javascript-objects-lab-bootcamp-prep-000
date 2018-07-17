@@ -16,3 +16,4 @@ function deleteFromObjectByKey(object, key)
   delete object2[key]
   return object2
 }
+function 
